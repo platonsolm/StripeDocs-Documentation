@@ -1,4 +1,4 @@
-[Home](/) / [Create a payment link](#)
+[Home](https://platonsolm.github.io/StripeDocs-Documentation/) / [Create a payment link](#)
 # Create a payment link
 
 ### Create a custom payment page without code.

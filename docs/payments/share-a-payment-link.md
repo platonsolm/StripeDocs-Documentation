@@ -1,4 +1,4 @@
-[Home](/) / [Share a payment link](#)
+[Home](https://platonsolm.github.io/StripeDocs-Documentation/) / [Share a payment link](#)
 # Share a payment link
 
 ### Share payment links across social media, emails, or your website.

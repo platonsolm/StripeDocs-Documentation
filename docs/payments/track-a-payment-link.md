@@ -1,4 +1,4 @@
-[Home](/) / [Track a payment link](#)
+[Home](https://platonsolm.github.io/StripeDocs-Documentation/) / [Track a payment link](#)
 # Track a payment link
 
 ### Use URL parameters and UTM codes to track a payment link.

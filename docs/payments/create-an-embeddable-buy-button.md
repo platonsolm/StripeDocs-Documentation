@@ -6,7 +6,7 @@
     }
 </style>
 
-[Home](/) / [Create an embeddable buy button](#)
+[Home](https://platonsolm.github.io/StripeDocs-Documentation/) / [Create an embeddable buy button](#)
 # Create an embeddable buy button
 
 ### Use Payment Links to create an embeddable buy button for your website.
