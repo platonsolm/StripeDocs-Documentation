@@ -1,0 +1,58 @@
+site_name: Stripe Docs
+theme:
+  logo: assets/icons/logo.svg
+  favicon: assets/icons/logo.svg
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      primary: white
+      accent: light blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+extra:
+  generator: false
+copyright: |
+ &copy; 2024 <a href="https://docs.stripe.com/"  target="_blank" rel="noopener">Stripe Docs</a>
+
+nav:
+  - index.md
+  - Payments:
+    - payments/create-a-payment-link.md
+    - payments/share-a-payment-link.md
+    - payments/track-a-payment-link.md
+    - payments/create-an-embeddable-buy-button.md
