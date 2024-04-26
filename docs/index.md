@@ -63,7 +63,7 @@
     }
 </script>
 
-<a href="/">Home</a>
+<a href="#">Home</a>
 <h1>Payment Links</h1>
 <h3>Sell online without building a digital storefront.</h3>
 <p>Accept a payment or sell subscriptions without building additional standalone websites or applications with Payment Links. Share the link as many times as you want on social media, in emails, or on your website.</p>
