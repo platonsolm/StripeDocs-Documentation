@@ -1,17 +1,4 @@
 <style>
-  .container{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .image-container{
-        display: flex;
-        margin: 20px;
-    }
-    .image-container img{
-        max-width: 250px;
-        margin: 0 30px;
-    }
     .divider{
       height: 1px;
       background-color: #ccc;
