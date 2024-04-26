@@ -94,7 +94,6 @@ Set the `customer-session-client-secret` attribute on the `<stripe-buy-button>` 
 
     publishable-key="pk_test_51EnkCZCLU6thghKmNHiHQ73IHaigYIluWMELqWVMln10heSz4xpma7dJwmAuMBhYAVTQ76PrC6M0LvmsUxhNzKC500RL4elxGV"
 
-
     customer-session-client-secret="{{CLIENT_SECRET}}"
   >
   </stripe-buy-button>
