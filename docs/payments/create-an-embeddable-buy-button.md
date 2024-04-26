@@ -20,7 +20,7 @@ By default, your buy button uses the same branding and call to action configured
 - Set the language of the button and payment page to match your website’s language.
 - Customize your button’s call to action.
 
-![Customize the buy button](/assets/images/screenshot1.png)
+![Customize the buy button](screenshot1.png)
 <p class="description">Customize the buy button</p>
 
 ### Embed the button
