@@ -24,6 +24,19 @@
         box-sizing: border-box;
     }
 
+    @media (max-width: 768px) {
+      .callout {
+        width: 100%;
+        margin-bottom: 10px;
+      }
+      .callout-container{
+        flex-direction: column;
+      }
+      .callout-row {
+        flex-direction: column;
+        margin-bottom: 0px;
+      }
+    }
     .callout-text {
       color: #5D6479;
       font-size: 14px;
