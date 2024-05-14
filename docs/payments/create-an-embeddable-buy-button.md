@@ -48,7 +48,7 @@ If you’re using HTML, paste the embed code into the HTML. If you’re using Re
 ```
 ### Attributes to customize checkout
 | PARAMETER | DESCRIPTION | SYNTAX |
-|:--------------|:------------| :----- |
+|:--------------|:------------|:----- |
 | `client-reference-id` | Use `client-reference-id` to attach a unique string of your choice to the Checkout Session. The string can be a customer ID or a cart ID (or similar) that you use to reconcile the Session with your internal systems. If you pass this parameter to your `<stripe-buy-button>`, it’s sent in the [checkout.session.completed webhook]() upon payment completion. | `client-reference-id` can be composed of alphanumeric characters, dashes, or underscores, and be any value up to 200 characters. Invalid values are silently dropped, but your payment page continues to work as expected. |
 
 Attribute `customer-email`
